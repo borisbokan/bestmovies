@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#c8d92020</color>
+    <color name="ime_prezime_text">#ffbf40</color>
+    <color name="rating_stars">#ffbf40</color>
+    <color name="floatbutnon">#750000</color>
+
+    <!-- Transparentna crna -->
+    <color name="transparent_black_20prc">#24000000</color>
+
+</resources>

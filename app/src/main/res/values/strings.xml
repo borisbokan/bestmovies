@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMovies</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="movie_title">Movie title</string>
+    <string name="ganre">Ganre</string>
+    <string name="description_of_movie">Description of movie</string>
+    <string name="title_of_movie">Title of movie</string>
+</resources>
